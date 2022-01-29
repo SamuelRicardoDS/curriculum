@@ -1,10 +1,10 @@
+import React from "react";
+import Router from "./routes";
+
 
 function App() {
   return (
-    <div className="App">
-      <h1>curriculum</h1>
-     <button>softskills</button>
-    </div>
+     <Router/>  
   );
 }
 
