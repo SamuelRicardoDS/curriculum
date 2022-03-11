@@ -3,6 +3,7 @@ import { Route, BrowserRouter, Routes } from "react-router-dom";
 
 import Home from "./pages/Home";
 import Soft from "./pages/Softskills";
+import Hard from "./pages/Hardskills";
 
 const Router = () => {
     return(
@@ -10,6 +11,7 @@ const Router = () => {
         <Routes>
             <Route path="/" element={<Home/>} />
             <Route path="/softskills" element={<Soft/>} />
+            <Route path ="/hardskills" element={<Hard/>} />
         </Routes>
         </BrowserRouter>
     )

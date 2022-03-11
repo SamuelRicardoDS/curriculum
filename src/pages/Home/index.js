@@ -8,6 +8,9 @@ function Home() {
             <button>
                 <Link to ="/softskills">Softskills</Link>
             </button>
+            <button>
+                <Link to ="/hardskills">Hardskills</Link>
+            </button>
         </div>
     )
 }
