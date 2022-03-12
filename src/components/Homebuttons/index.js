@@ -3,7 +3,7 @@ import { Link } from "react-router-dom"
 
 function Homebuttons() {
     return(
-        <div className="Bodybuttons">
+        <section className="Bodybuttons">
             <button>
                 curriculum vitae
             </button>
@@ -13,7 +13,7 @@ function Homebuttons() {
             <button>
                 <Link to ="/hardskills">Hardskills</Link>
             </button>
-        </div>
+        </section>
     )
 }
 
