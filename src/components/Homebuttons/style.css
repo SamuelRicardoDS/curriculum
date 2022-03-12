@@ -1,4 +1,16 @@
+
 .Bodybuttons {
+    margin: 10%;
+    width: 50%;
     align-items: center;
-    background-color: antiquewhite;
+    background-color:brown;
+}
+
+.Curriculumbutton {
+   background-color: aqua;
+   margin: 30%;
+}
+
+.Softbutton {
+    background-color: blue;
 }
