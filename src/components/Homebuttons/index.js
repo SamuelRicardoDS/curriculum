@@ -4,10 +4,11 @@ import './style.css'
 
 function Homebuttons() {
     return(
+        <div className="page">
         <section className="Bodybuttons">
             <div>
                 <button className="Curriculumbutton">
-                    curriculum vitae
+                    Curriculum Vitae
                 </button>
             </div>
             <div>
@@ -16,11 +17,12 @@ function Homebuttons() {
                 </button>
             </div>
             <div>
-                <button>
+                <button className="Hardbutton">
                     <Link to ="/hardskills">Hardskills</Link>
                 </button>
             </div>
         </section>
+        </div>
     )
 }
 

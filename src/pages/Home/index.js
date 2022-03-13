@@ -5,7 +5,7 @@ import Homebuttons from "../../components/Homebuttons";
 function Home() {
     return(
         <div className="App">
-            <h1>curriculum</h1>
+            <h1>Samuel Ricardo Dias da Silva</h1>
             <Homebuttons/>
         </div>
     )
