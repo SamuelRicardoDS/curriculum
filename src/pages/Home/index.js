@@ -1,11 +1,13 @@
 import React from "react";
-import { Link } from "react-router-dom";
 import Homebuttons from "../../components/Homebuttons";
+import Hometitle from "../../components/Hometitle";
+import './style.css'
+
 
 function Home() {
     return(
         <div className="App">
-            <h1>Samuel Ricardo Dias da Silva</h1>
+            <Hometitle/>
             <Homebuttons/>
         </div>
     )
