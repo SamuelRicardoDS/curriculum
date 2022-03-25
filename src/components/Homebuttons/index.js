@@ -5,6 +5,9 @@ import './style.css'
 function Homebuttons() {
     return(
         <div className="page">
+            <div className='textbox'>
+            <div className='texto'>KKKKKKKKKKKKKK</div>
+            </div>
         <section className="Bodybuttons">
             <div>
                 <button className="Curriculumbutton">
