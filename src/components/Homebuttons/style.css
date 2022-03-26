@@ -1,10 +1,4 @@
-/* .page {
-    background: #AAF6B3;
-    position: relative;
-    background-size: cover;
-    height: 100vh;
-    width: 100vw;
-} */
+
 
 .Bodybuttons {
     margin: 5%;
@@ -31,7 +25,7 @@
 .Softbutton {
     height: 84px;
     width: 312px;
-    margin-left: 50%;
+    margin-left: 46%;
     margin-top: 13%;
     background-color: #AEEBD8;
     border-radius: 31px;
@@ -51,3 +45,15 @@
     border: none;
     font-size: 30px;
 }
+
+.textbox {
+    margin-left: 40%;
+    width: 34%;
+    background: #92D4AC;
+    border-radius: 83px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+/* .texto {
+    margin: 15%;
+} */

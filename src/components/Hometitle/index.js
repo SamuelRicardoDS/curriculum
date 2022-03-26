@@ -3,9 +3,9 @@ import React from 'react'
 
 function Hometitle() {
     return(
-        <div>
+        <div className='title'>
             <h1> Samuel Ricardo Dias da Silva</h1>
-            <hr></hr>
+            <hr className='divisor'></hr>
         </div>
     )
 }
