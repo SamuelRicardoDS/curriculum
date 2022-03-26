@@ -6,7 +6,7 @@ function Homebuttons() {
     return(
         <div className="page">
             <div className='textbox'>
-            <div className='texto'>KKKKKKKKKKKKKK</div>
+            <div className='texto'>Olá, seja bem vindo(a) ao meu Webcurriculum!</div>
             </div>
         <section className="Bodybuttons">
             <div>
