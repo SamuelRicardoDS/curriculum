@@ -11,7 +11,7 @@ function Homebuttons() {
         <section className="Bodybuttons">
             <div>
                 <button className="Curriculumbutton">
-                    Curriculum Vitae
+                    <Link to="/cv">Curriculum Vitae</Link>
                 </button>
             </div>
             <div>
