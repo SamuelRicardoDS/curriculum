@@ -8,9 +8,9 @@ function Home() {
     return(
         <div className="App">
             <Hometitle/>
-            <div>
+           
             <Homebuttons/>
-            </div>
+            
         </div>
     )
 }
